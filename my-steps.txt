@@ -98,6 +98,10 @@ git push -u origin main
 
 ### Step 6
 touch menu.txt
+git status
+git add .
+git commit -m 'added menu and updated steps'
+git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
